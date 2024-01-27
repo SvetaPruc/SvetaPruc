@@ -22,7 +22,6 @@ I believe in the importance of collaboration with developers and other team memb
 
 ## Fun Facts
 
-- 🌐 Passionate about exploring the intricate details of REST APIs and their role in modern applications.
 - 🎧 Listening to podcasts and staying updated on the latest testing trends is my secret to continuous improvement.
 - 🌟 I'm not just a tester; I'm an advocate for quality and user satisfaction.
 
