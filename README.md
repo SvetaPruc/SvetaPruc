@@ -1,32 +1,49 @@
-# Hi there, I'm Svitlana! 👋
+# Hi there, I'm Svitlana! 👋 a tester with medical expertise. This unique combination allows me to bring a high level of analysis and quality to software testing. Below, you'll find information about the tools and technologies I work with :
 
-Welcome to my testing world. I have been a software tester since 2023.
+## Tools and Technologies🛠️
 
-## My testing philosophy:
 
-I believe in the importance of collaboration with developers and other team members to achieve a common goal - creating high-quality software. My objective is not only to identify issues but also to address them at the early stages of development."
+### Jira![Jira Logo](https://commons.wikimedia.org/wiki/File:Jira_Logo.svg#/media/File:Jira_Logo.svg)
+Streamlining my test management and issue tracking.
 
-## Testing Tools I Work With
+### TestRail [TestRail Logo](link_to_testrail_logo.png)
+Organizing and managing test cases with efficiency.
 
-- **Jira:** Streamlining my test management and issue tracking.
-- **TestRail:** Organizing and managing test cases with efficiency.
-- **Azure DevOps:** Collaborating seamlessly with development teams.
-- **Rest API:** Proficient in testing and validating RESTful APIs.
-- **Postman:** Crafting and automating API requests effortlessly.
-- **Fiddler Classic & Everywhere:** Mastering the art of web debugging.
-- **Chrome DevTools:** Unleashing the power of browser-based testing.
-- **XML & JSON:** Navigating data formats with ease.
-- **Selenium IDE:** Harnessing the potential of Selenium for web testing.
-- **Git:** Version control for collaborative and organized testing.
-- **MySQL:** Diving into database testing with SQL queries.
+### Azure DevOps [Azure DevOps Logo](link_to_azure_devops_logo.png)
+Collaborating seamlessly with development teams.
 
-## Fun Facts
+### Rest API
+Proficient in testing and validating RESTful APIs.
 
-- 🎧 Listening to podcasts and staying updated on the latest testing trends is my secret to continuous improvement.
-- 🌟 I'm not just a tester; I'm an advocate for quality and user satisfaction.
+### Postman [Postman Logo](link_to_postman_logo.png)
+Creating, sending, and validating HTTP requests for API testing.
 
-## Let's Connect!
+### Fiddler Classic & Fiddler Everywhere ![Fiddler Logo](link_to_fiddler_logo.png)
+Monitoring and analyzing HTTP/HTTPS traffic to detect issues and optimize speed.
 
-Feel free to connect with me on [Telegram](@SvPruts) [LinkedIn](https://www.linkedin.com/in/sveta-pruts-bb85322aa/) and check out some of my testing adventures on [GitHub](https://github.com/SvetaPruc).
+### Chrome DevTools
+Used for debugging and analyzing websites at the client level.
+
+### XML & JSON
+Working with data formats for effective API testing and interaction with different systems.
+
+### Selenium IDE
+Automating web application testing for efficiency and accuracy.
+
+### Git
+Version control for collaboration and codebase management.
+
+### MySQL
+Database for testing and interacting with stored information.
+
+
+
+
+
+
+Contact and Links 📫
+Telegram:@SvPruts
+Email:prucsveta@gmail.com
+LinkedIn:https://www.linkedin.com/in/sveta-pruts-bb85322aa/
 
 Happy Testing! 🧪✨
