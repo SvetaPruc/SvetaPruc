@@ -18,9 +18,9 @@ I am a tester with medical expertise. This unique combination allows me to bring
 
 
 ## Contact and Links 📫
-##Telegram**:@SvPruts
-##Email**:prucsveta@gmail.com
-##LinkedIn**:https://www.linkedin.com/in/sveta-pruts-bb85322aa/
-##GitHub Portfolio**:https://github.com/SvetaPruc/Portfolio
+##Telegram:@SvPruts
+##Email:prucsveta@gmail.com
+##LinkedIn:https://www.linkedin.com/in/sveta-pruts-bb85322aa/
+##GitHub Portfolio:https://github.com/SvetaPruc/Portfolio
 
 Happy Testing! 🧪✨
